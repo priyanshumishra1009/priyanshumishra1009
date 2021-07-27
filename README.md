@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Priyanshu Mishra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -13,7 +11,9 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 my certificate on [PYTHON](https://www.sololearn.com/certificates/course/en/22806216/1157/landscape/png)
+
+- 🤝 my certificate for [JAVA SCRIPT](https://www.sololearn.com/certificates/course/en/22806216/1024/landscape/png)
 
 - 💬 Ask me about **python,js,kotlin,html,cs**
 
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumishra1009&show_icons=true&locale=en" alt="priyanshumishra1009" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumishra1009&" alt="priyanshumishra1009" /></p>
-
