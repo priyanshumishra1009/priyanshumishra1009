@@ -16,6 +16,9 @@
 
 - 🤝 my certificate for [JAVA SCRIPT](https://www.sololearn.com/certificates/course/en/22806216/1024/landscape/png)
 
+- 🎉 my certificate for [HTML](https://www.sololearn.com/certificates/course/en/22806216/1014/landscape/png)
+
+
 - 💬 Ask me about **python,js,kotlin,html,cs**
 
 - 📫 How to reach me **priyanshu20@navgurukul.org**
