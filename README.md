@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **python,js,kotlin,html,cs**
 
-- 📫 How to reach me **priyanshu20@navgurukul.org**
+- 📫 How to reach me **iampriyanshu1009@gmail.com**
 
 - ⚡ Fun fact **I am a kpop fan. i know a bit korean and a lot of english.**
 
